@@ -1,0 +1,12 @@
+Place Order.
+
+1- Get cart items of users, calculate the totalAmount.
+2- Create a record for order.
+3- Reduce the stock (products quantity).
+4- Clear the cart.
+
+// we don't have this features right now.
+skip for later.
+5- Deduct the payment.
+6- Inform to sellers.
+7- Inform to coureir.
