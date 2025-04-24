@@ -1,0 +1,3 @@
+1 - Counter collection (_id:"CartItemId", value:0)
+2 - While adding cart items, increment the counter and the counter 
+value as id to cartitem document.
